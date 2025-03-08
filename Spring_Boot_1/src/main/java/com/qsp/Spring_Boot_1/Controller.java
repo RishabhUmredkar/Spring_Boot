@@ -3,6 +3,7 @@ package com.qsp.Spring_Boot_1;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -44,5 +45,25 @@ public class Controller {
 	{
 		return "Id : "+id+" Name : "+name;
 	}
+	
+	//----------------------------------------------------------------
+
+	@GetMapping("/header")
+	public String getHeaderData(@RequestHeader int id, @RequestHeader String name)
+	{
+		return "Id : "+id+" Name : "+name;
+	}
+	
 
 }
+
+
+
+
+
+
+
+
+
+
+
