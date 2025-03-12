@@ -57,5 +57,30 @@ public class EmployeeController {
 		}
 		return null;
 	}
+	
+	@GetMapping("/employee/findByName")
+	public List<EmployeeSpring> FindEmployeeByName(@RequestParam String name)
+	{
+		return repository.findByName(name);
+	}
+
+	@GetMapping("/employee/findByNamePhone")
+	public EmployeeSpring FindEmployeeByNameAndPhonoe(@RequestParam String name, @RequestParam long phone)
+	{
+		return repository.findByNameAndPhone(name, phone);
+	}
+	@GetMapping("/employee/findByName/{name}")
+	public List<EmployeeSpring> FetchEmployeeByName(@PathVariable String name)
+	{
+		return repository.fetchByName(name);
+	}
+
+	@GetMapping("/employee/findByNamePhone/{name}/{phone}")
+	public EmployeeSpring FetchEmployeeByNameAndPhonoe(@PathVariable String name, @PathVariable long phone)
+	{
+		return repository.FetchByNameAndPhone(name, phone);
+	}
+	
+	
 
 }
