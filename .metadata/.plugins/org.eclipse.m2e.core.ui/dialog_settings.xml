@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\QSpider Coding\Sping Boot\Trainer_CRUD"/>
 			<item value="E:\QSpider Coding\Sping Boot\Srping_DB"/>
 			<item value="E:\QSpider Coding\Sping Boot\Spring_Boot_1"/>
 		</list>
