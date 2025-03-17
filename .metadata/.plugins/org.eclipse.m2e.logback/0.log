@@ -4130,3 +4130,128 @@ org.eclipse.core.runtime.CoreException: Launch configuration SrpingDbApplication
 2025-03-15 16:34:18,738 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@22b807b6{STOPPING}[10.0.13,sto=0]
 2025-03-15 16:34:18,754 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@70049d2d{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-03-15 16:34:18,780 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@69aecc54{/help,null,STOPPED}
+2025-03-16 00:58:37,064 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-16 01:05:48,689 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:05:48,728 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:05:48,734 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:05:51,992 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:05:51,998 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:05:52,001 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:06:28,365 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:06:28,372 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:06:28,375 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:08:20,613 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2025-03-16 01:08:20,663 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-16 01:08:20,727 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@372beb60{/help,null,AVAILABLE}
+2025-03-16 01:08:20,770 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7db019fc{HTTP/1.1, (http/1.1)}{127.0.0.1:59735}
+2025-03-16 01:08:20,790 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@1b95a6f5{STARTING}[10.0.13,sto=0] @659233ms
+2025-03-16 01:10:10,473 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:10:10,478 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:10:10,480 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:10:20,499 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:10:20,504 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:10:20,508 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:17:39,062 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:17:39,067 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:17:39,070 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:19:07,987 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:19:07,996 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:19:08,001 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:19:14,550 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:19:14,555 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:19:14,561 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:19:42,582 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:19:42,589 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:19:42,592 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:20:43,023 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:20:43,032 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:20:43,037 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:20:49,229 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:20:49,234 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:20:49,236 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:23:44,244 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:23:44,259 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:23:44,262 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:24:51,781 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:24:51,840 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:24:51,843 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:24:58,846 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:24:58,872 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:24:58,875 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:25:16,055 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:25:16,064 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:25:16,069 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:25:29,398 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:25:29,402 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:25:29,409 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:26:09,433 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:26:09,483 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:26:09,487 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:28:11,374 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:28:11,409 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:28:11,413 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:29:10,427 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:29:10,475 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:29:10,478 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:29:16,841 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:29:16,869 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:29:16,875 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:33:31,168 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:33:31,250 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:33:31,255 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:35:01,436 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:35:01,492 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:35:01,498 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:35:02,698 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:35:02,705 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:35:02,707 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:35:33,977 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:35:33,982 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:35:33,985 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:35:42,141 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:35:42,152 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:35:42,158 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:42:56,083 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:42:56,112 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:42:56,115 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:43:56,768 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:43:56,773 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:43:56,776 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:44:04,288 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:44:04,300 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:44:04,303 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:44:09,523 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:44:09,548 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:44:09,552 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:46:46,952 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:46:46,977 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:46:46,980 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:46:56,885 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:46:56,899 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:46:56,903 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:47:00,269 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:47:00,294 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:47:00,299 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:47:38,000 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-16 01:47:38,021 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-16 01:47:38,026 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\Trainer_CRUD\src\test\resources
+2025-03-16 01:49:07,152 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@1b95a6f5{STOPPING}[10.0.13,sto=0]
+2025-03-16 01:49:07,162 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7db019fc{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-03-16 01:49:07,176 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@372beb60{/help,null,STOPPED}
+2025-03-17 15:06:42,958 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-17 16:18:31,949 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SpringBootLayer:SpringBootLayer:0.0.1-SNAPSHOT @ E:\QSpider Coding\Sping Boot\SpringBootLayer\pom.xml.
+2025-03-17 16:18:35,443 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootLayer/src/main/java
+2025-03-17 16:18:35,443 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootLayer/src/main/resources
+2025-03-17 16:18:35,452 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootLayer/src/main/resources
+2025-03-17 16:18:35,460 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootLayer/src/test/java
+2025-03-17 16:18:35,816 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2025-03-17 16:18:36,213 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-03-17 16:18:36,457 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.SpringBootLayer:SpringBootLayer:0.0.1-SNAPSHOT @ E:\QSpider Coding\Sping Boot\SpringBootLayer\pom.xml.
+2025-03-17 16:18:36,969 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootLayer/src/main/java
+2025-03-17 16:18:36,970 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootLayer/src/main/resources
+2025-03-17 16:18:36,970 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootLayer/src/main/resources
+2025-03-17 16:18:36,971 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootLayer/src/test/java
+2025-03-17 16:18:37,385 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-03-17 16:18:37,688 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-17 16:18:37,715 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-17 16:18:37,719 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Sping Boot\SpringBootLayer\src\test\resources

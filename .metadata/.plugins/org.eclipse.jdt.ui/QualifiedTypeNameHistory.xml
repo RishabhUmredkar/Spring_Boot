@@ -8,12 +8,10 @@
     <fullyQualifiedTypeName name="com.qsp.spring_db.Srping_DB.EmployeeRepository"/>
     <fullyQualifiedTypeName name="com.qsp.spring_db.Srping_DB.Employee"/>
     <fullyQualifiedTypeName name="org.springframework.web.service.annotation.PutExchange"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
     <fullyQualifiedTypeName name="java.lang.StackWalker.Option"/>
     <fullyQualifiedTypeName name="com.qsp.spring_db.Srping_DB.StudentSpring"/>
     <fullyQualifiedTypeName name="com.qsp.spring_db.Srping_DB.StudentRepository"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
-    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
     <fullyQualifiedTypeName name="com.qsp.spring_db.Srping_DB.EmployeeSpring"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
@@ -31,7 +29,11 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.trainer.Trainer_CRUD.Trainer"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
 </qualifiedTypeNameHistroy>

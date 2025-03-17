@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -48,25 +47,20 @@ public class Controller {
 	}
 
 	@DeleteMapping("trainer/{id}")
-	public void deleteByID(@PathVariable int id)
-	{
+	public void deleteByID(@PathVariable int id) {
 		Optional<Trainer> optional = repo.findById(id);
-		if(optional.isPresent())
-		{
+		if (optional.isPresent()) {
 			Trainer e = optional.get();
 			repo.delete(e);
-			
+
 		}
 	}
+
 	@DeleteMapping("trainer/deleteByName/{name}")
 	public int deleteByName(@PathVariable String name) {
-	    return repo.deleteByName(name);
+		return repo.deleteByName(name);
 	}
-	
-	
-	
-	
-	
+
 	@GetMapping("trainer/findByName/{name}")
 	public List<Trainer> findByName(@PathVariable String name) {
 		return repo.findByName(name);
@@ -77,20 +71,14 @@ public class Controller {
 		return repo.findBySubject(subject);
 	}
 
-
-	
 	@GetMapping("trainer/fetchByName/{name}")
-	public List<Trainer> FetchByName(@PathVariable String name)
-	{
+	public List<Trainer> FetchByName(@PathVariable String name) {
 		return repo.fetchByName(name);
 	}
 
-	
 	@GetMapping("trainer/fetchBySub/{subject}")
-	public List<Trainer> FetchBySub(@PathVariable String subject)
-	{
+	public List<Trainer> FetchBySub(@PathVariable String subject) {
 		return repo.FetchBySub(subject);
 	}
-	
 
 }
