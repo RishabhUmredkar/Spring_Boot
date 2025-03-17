@@ -1,5 +1,7 @@
 package com.SpringBootLayer.SpringBootLayer.Dao;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -17,4 +19,9 @@ public class CompanyDao {
 		return repo.save(company);
 	}
 
+	public List<Company> findAll()
+	{
+		return repo.findAll();
+	}
+	
 }

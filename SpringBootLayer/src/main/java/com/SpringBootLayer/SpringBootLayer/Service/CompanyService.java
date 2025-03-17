@@ -1,5 +1,7 @@
 package com.SpringBootLayer.SpringBootLayer.Service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
@@ -19,4 +21,8 @@ public class CompanyService {
 	{
 		return new ResponseEntity<Company>(dao.save(company), HttpStatus.CREATED);
 	}
+
+    public List<Company> findAll() {
+        return dao.findAll();
+    }
 }
