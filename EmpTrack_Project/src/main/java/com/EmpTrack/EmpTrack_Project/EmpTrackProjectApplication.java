@@ -8,6 +8,8 @@ public class EmpTrackProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmpTrackProjectApplication.class, args);
+		
+		
 	}
 
 }

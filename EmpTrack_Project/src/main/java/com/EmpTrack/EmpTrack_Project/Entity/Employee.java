@@ -18,6 +18,7 @@ public class Employee {
 	private int id;
 	private String name;
 	private double sal;
+	private String mail;
 	@ManyToOne(cascade = CascadeType.PERSIST)
 	@JoinColumn
 	@JsonIgnore
@@ -28,11 +29,12 @@ public class Employee {
 		// TODO Auto-generated constructor stub
 	}
 
-	public Employee(int id, String name, long sal, Company com) {
+	public Employee(int id, String name, double sal, String mail, Company com) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.sal = sal;
+		this.mail = mail;
 		this.com = com;
 	}
 
@@ -66,6 +68,14 @@ public class Employee {
 
 	public void setCom(Company com) {
 		this.com = com;
+	}
+
+	public String getMail() {
+		return mail;
+	}
+
+	public void setMail(String mail) {
+		this.mail = mail;
 	}
 	
 	
